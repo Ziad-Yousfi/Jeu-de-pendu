@@ -1,0 +1,17 @@
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.Form1.resources
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.Resources.resources
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.vbproj.GenerateResource.cache
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.AssemblyInfoInputs.cache
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.AssemblyInfo.vb
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.vbproj.CoreCompileInputs.cache
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\bin\Debug\net8.0-windows\Jeu_de_Pendu.exe
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\bin\Debug\net8.0-windows\Jeu_de_Pendu.deps.json
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\bin\Debug\net8.0-windows\Jeu_de_Pendu.runtimeconfig.json
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\bin\Debug\net8.0-windows\Jeu_de_Pendu.dll
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\bin\Debug\net8.0-windows\Jeu_de_Pendu.pdb
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.dll
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\refint\Jeu_de_Pendu.dll
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.pdb
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\Jeu_de_Pendu.genruntimeconfig.cache
+C:\Users\yousf\source\repos\Jeu_de_Pendu\Jeu_de_Pendu\obj\Debug\net8.0-windows\ref\Jeu_de_Pendu.dll
